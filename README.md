@@ -38,3 +38,8 @@ controlling the emergency. Accidents have a massive impact on the country's
 economy because there is an immense cost to fatalities and injuries. Crashes
 amount to approximately 1% GDP; in middle-income countries the cost is 1.5% of 
 the GDP; and in high-income countries the cost is 2 percent of the GDP.
+
+
+
+Data Section:
+
