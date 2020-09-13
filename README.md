@@ -42,4 +42,4 @@ the GDP; and in high-income countries the cost is 2 percent of the GDP.
 
 
 Data Section:
-
+Data that was used for this project was find here:https://smoosavi.org/datasets/us_accidents
